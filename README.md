@@ -1,4 +1,4 @@
-# BUENAS PRÁCTICAS Y CÓDILO LIMPIO EN LENGUAJE C#
+# BUENAS PRÁCTICAS Y CÓDIGO LIMPIO EN LENGUAJE C#
 En este repositorio podrás encontrar conceptos y ejemplos del uso de código limpio y buenas prácticas en lenguaje de programación c#.
 
 ## Estándares y buenas prácticas: 
